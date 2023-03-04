@@ -78,5 +78,18 @@
         android:backgroundTint="#005F73"
         android:textSize="18sp"
         android:id="@+id/btnSignUp"/>
+    <Button
+        android:text="I forgot the password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnForgot" 
+        android:layout_marginLeft="60.0dp"
+        android:layout_marginRight="60.0dp"
+        android:layout_marginTop="5.0dp"
+        android:layout_marginBottom="5.0dp"
+        android:typeface="sans"
+        android:textColor="#202020"
+        android:backgroundTint="#F7F7F7"
+        android:textSize="11sp"/>
 
 </LinearLayout>

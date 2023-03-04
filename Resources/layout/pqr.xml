@@ -26,14 +26,15 @@
         android:gravity="center"
         android:textStyle="bold"
         android:textSize="30sp"
-        android:textColor="#202020"/>
+        android:textColor="#202020"
+        android:id="@+id/PQR"/>
 
     <EditText
         android:hint="Nombre completo"
         android:inputType="textPersonName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText2" 
+        android:id="@+id/txtFullName" 
         android:textColor="#202020"
         android:textSize="18sp"
         android:textColorHint="#808080"
@@ -46,7 +47,7 @@
         android:inputType="phone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText3" 
+        android:id="@+id/txtPhone" 
         android:textColor="#202020"
         android:textSize="18sp"
         android:textColorHint="#808080"
@@ -59,7 +60,7 @@
         android:inputType="number"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText1" 
+        android:id="@+id/txtId" 
         android:textColor="#202020"
         android:textSize="18sp"
         android:textColorHint="#808080"
@@ -69,7 +70,7 @@
         android:layout_marginBottom="10dp"/>
 
     <Spinner
-        android:id="@+id/spinner_pqr"
+        android:id="@+id/spinnerPqr"
         android:layout_width="match_parent"
         android:layout_height="74.0dp"
         android:padding="16dp"
@@ -82,7 +83,7 @@
         android:layout_marginRight="20.0dp"/>
 
     <EditText
-        android:id="@+id/edittext_problema"
+        android:id="@+id/txtQuestion"
         android:layout_width="match_parent"
         android:layout_height="172.5dp"
         android:hint="Escriba aquí su problema"
@@ -93,7 +94,7 @@
 
     <!-- Botón para enviar el PQR -->
     <Button
-        android:id="@+id/btn_enviar_pqr"
+        android:id="@+id/btnSend"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Send"

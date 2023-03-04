@@ -4,6 +4,7 @@ androidx.appcompat.view.menu.ListMenuItemView;obj\Debug\130\res\layout\welcome.x
 background;obj\Debug\130\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\130\res\mipmap-anydpi-v26\ic_launcher_round.xml
 Button;obj\Debug\130\res\layout\activity_main.xml
+Button;obj\Debug\130\res\layout\forgotpass.xml
 Button;obj\Debug\130\res\layout\pqr.xml
 Button;obj\Debug\130\res\layout\signup.xml
 cache-path;C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -13,6 +14,7 @@ com.google.android.material.bottomnavigation.BottomNavigationView;obj\Debug\130\
 com.google.android.material.bottomnavigation.BottomNavigationView;obj\Debug\130\res\layout\welcome.xml
 com.google.android.material.internal.NavigationMenuView;obj\Debug\130\res\layout\welcome.xml
 EditText;obj\Debug\130\res\layout\activity_main.xml
+EditText;obj\Debug\130\res\layout\forgotpass.xml
 EditText;obj\Debug\130\res\layout\pqr.xml
 EditText;obj\Debug\130\res\layout\signup.xml
 external-cache-path;C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -25,6 +27,7 @@ item;obj\Debug\130\res\menu\navigation.xml
 item;obj\Debug\130\res\values\strings.xml
 item;obj\Debug\130\res\values\styles.xml
 LinearLayout;obj\Debug\130\res\layout\activity_main.xml
+LinearLayout;obj\Debug\130\res\layout\forgotpass.xml
 LinearLayout;obj\Debug\130\res\layout\pqr.xml
 LinearLayout;obj\Debug\130\res\layout\signup.xml
 LinearLayout;obj\Debug\130\res\layout\welcome.xml
@@ -41,5 +44,7 @@ string;obj\Debug\130\res\values\strings.xml
 string;obj\Debug\130\res\values\styles.xml
 string-array;obj\Debug\130\res\values\strings.xml
 style;obj\Debug\130\res\values\styles.xml
+TextView;obj\Debug\130\res\layout\activity_main.xml
+TextView;obj\Debug\130\res\layout\forgotpass.xml
 TextView;obj\Debug\130\res\layout\pqr.xml
 TextView;obj\Debug\130\res\layout\signup.xml

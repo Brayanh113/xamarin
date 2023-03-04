@@ -315,3 +315,7 @@ C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\res\layout\pqr.xml
 C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\res\drawable\backbutton.png
 C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\res\drawable\conversation.png
 C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\res\menu\navigation.xml
+C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\res\drawable\home.png
+C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\res\drawable\exit.png
+C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\res\drawable\question.png
+C:\Users\brayan\OneDrive\Desktop\Entrega\obj\Debug\130\res\layout\forgotpass.xml

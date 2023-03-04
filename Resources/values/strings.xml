@@ -11,7 +11,8 @@
 	</string-array>
 
 	<string name="title_home">Home</string>
-	<string name="title_dashboard">Dashboard</string>
+	<string name="title_dashboard">NN</string>
 	<string name="title_notifications">PQR</string>
+	<string name="title_exit">Exit</string>
 
 </resources>

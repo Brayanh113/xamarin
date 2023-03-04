@@ -1,1 +1,3 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/navigation_home" android:icon="@drawable/conversation" android:title="@string/title_home" /><item android:id="@+id/navigation_dashboard" android:icon="@drawable/conversation" android:title="@string/title_dashboard" /><item android:id="@+id/idPQR" android:icon="@drawable/conversation" android:title="@string/title_notifications" /></menu>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/home" android:icon="@drawable/home" android:title="@string/title_home" /><item android:id="@+id/idPQR" android:icon="@drawable/question" android:title="@string/title_notifications" /><item android:id="@+id/exitId" android:icon="@drawable/exit" android:title="@string/title_exit" />&gt;
+
+</menu>

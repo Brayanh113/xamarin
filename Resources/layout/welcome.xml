@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.google.android.material.bottomnavigation.BottomNavigationView
+     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/navigation"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -14,12 +14,13 @@
         android:layout_marginStart="0dp"
         android:background="?android:attr/windowBackground"
         android:layout_alignParentBottom="true"
-        app:menu="@menu/navigation" />
+        app:menu="@menu/navigation"/>
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="229.5dp"
         android:id="@+id/imageView1"
         android:src="@drawable/welcome"/>
+
 
 
 </LinearLayout>
